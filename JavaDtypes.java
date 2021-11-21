@@ -1,4 +1,4 @@
-public class first_practice_file {
+public class JavaDtypes{
     public static void main(String[] args){
         String call_me_on = "8056732411"; //anything wiht reference datatype starts with a capital letter
         String name = "Dineshkumar";

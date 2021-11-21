@@ -1,4 +1,4 @@
-public class java_swapping {
+public class JavaSwapping {
     public static void main(String[] args) {
         String x = "Water";
         String y = "Kool-Aid";
@@ -12,7 +12,5 @@ public class java_swapping {
         System.out.println("after swap =============================|");
         System.out.println("x has : "+x);
         System.out.println("y has : "+y);
-
     }
-    
 }

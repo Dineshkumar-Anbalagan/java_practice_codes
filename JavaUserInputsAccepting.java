@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UserInputsAccepting{
+public class JavaUserInputsAccepting{
     public static void main(String[] args) {
         // ==> code for taking user inputs
 
@@ -21,5 +21,5 @@ public class UserInputsAccepting{
         String place = scanner.nextLine();
         System.out.println("Damn! I'm also from "+place+"... seems like we can become frnds hehe");
         scanner.close();
-    }    
+    }
 };

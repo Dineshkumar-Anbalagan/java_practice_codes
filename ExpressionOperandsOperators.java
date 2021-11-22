@@ -20,7 +20,9 @@ public class ExpressionOperandsOperators {
         System.out.println("Value before : "+y);
         y = y/3;
         System.out.println("Value after : "+y+" ==> But it's 3.33333 right?");
+        
         // In order to get a decimal value, we have to explicitly provide a datatype infront like below.
+
         double z = 10;
         System.out.println("Value before : "+z);
         z = z/3;

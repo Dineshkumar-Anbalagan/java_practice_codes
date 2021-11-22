@@ -20,6 +20,6 @@ public class UserInputsAccepting{
         System.out.println("Where are you form btw?...");
         String place = scanner.nextLine();
         System.out.println("Damn! I'm also from "+place+"... seems like we can become frnds hehe");
-    }
-    
-}
+        scanner.close();
+    }    
+};

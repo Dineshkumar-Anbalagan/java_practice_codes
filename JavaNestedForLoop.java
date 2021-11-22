@@ -21,11 +21,6 @@ public class JavaNestedForLoop {
                 System.out.print(symbol);
             }
         }
-
         scanner.close();
-
-
-
-    }
-    
+    }   
 }

@@ -1,5 +1,5 @@
 public class ExpressionOperandsOperators {
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
 
         // expressions = operands & operators
         // operands = values,variables, numbers, quantity

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class filename{
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         //int age = 21;
         //double score = 23.45;
         Scanner scanner = new Scanner(System.in);

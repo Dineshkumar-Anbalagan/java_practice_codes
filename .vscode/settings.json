@@ -1,3 +1,7 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "java.project.sourcePaths": [
+        "V3 - Java OOPS Variable Scope",
+        "V4 - Java OOPS Overloaded Constructors"
+    ]
 }

@@ -3,7 +3,6 @@ public class JavaPrintf {
         // printf =  an optimal method to control, format and display text to the console window
         //           two arguments = format string + (object / variable / value)
         //           % [flags] [precision] [width] [conversion character]
-
         System.out.printf("This is a format string %f\n", 21.0);
         System.out.printf("This is a format string %.2f\n", 21.0);
         System.out.printf("This is a format string %b\n", true);

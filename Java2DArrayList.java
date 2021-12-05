@@ -1,7 +1,5 @@
 import java.util.*;
 
-import javax.sound.midi.SysexMessage;
-
 public class Java2DArrayList {
     public static void main(String[] args){
         

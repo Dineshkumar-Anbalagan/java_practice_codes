@@ -9,30 +9,24 @@ public class Main {
         // while creating objects, we can either create it outside of the main class or we can create a new separate file which contains the object's class.
         // I'm creating a new file containing class car consis of car objects.
         
-        Car mycar = new Car();
+        Car mycar1 = new Car();
+        Car mycar2 = new Car();
 
-        System.out.println(mycar.model);
+        System.out.println();
+        System.out.println(mycar1.model);
+        System.out.println(mycar1.make);
+        System.out.println(mycar1.color);
+
+        System.out.println();
+        System.out.println(mycar2.model);
+        System.out.println(mycar2.make);
+        System.out.println(mycar2.color);
+        System.out.println();
+
+        //mycar.drive();
+        //mycar.brake();
 
         
-    }
-
-}
-
-class Car {
-    // attributes of the car
-    String make = "Chevrolet";
-    String model = "Corvette";
-    int year = 2020;
-    String color = "blue";
-    double price = 5000000.00;
-
-    // methods - the actions that our car object can perform
-    void drive(){
-        System.out.println("you drive the car");
-    }
-
-    void brake(){
-        System.out.println("you stepped on the brakes");
     }
 
 }
